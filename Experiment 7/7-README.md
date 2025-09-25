@@ -119,7 +119,7 @@ VFXSubmission06/
 
 ## Screenshots
 
-<img width="2559" height="1439" alt="Screenshot 2025-09-23 021316" src="https://github.com/user-attachments/assets/0a77da7c-b452-48f6-9074-6faabc912cea" />
+<img width="600" alt="Screenshot 2025-09-23 021316" src="https://github.com/user-attachments/assets/96534cb5-5dbd-44eb-aa5b-d893305cafb0" />
 
 ---
 
