@@ -120,13 +120,7 @@ VFXSubmission06/
 ## Screenshots
 
 <img width="600" alt="Screenshot 2025-09-23 021316" src="https://github.com/user-attachments/assets/96534cb5-5dbd-44eb-aa5b-d893305cafb0" />
-
----
-
-## Credits
-
-- Assignment by: _[Your Name/Instructor Name]_
-
+w
 ---
 
 ## License
