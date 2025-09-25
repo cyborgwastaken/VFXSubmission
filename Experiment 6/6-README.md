@@ -79,7 +79,7 @@ Assets/
 
 ## Screenshots
 
-<img width="2559" height="1439" alt="Screenshot 2025-09-23 021350" src="https://github.com/user-attachments/assets/fc21c88c-d6e9-4877-936f-b0bc70798aed" />
+<img width="2559" height="1439" alt="Screenshot 2025-09-23 021350" src="https://github.com/user-attachments/assets/4ed69cc2-13ef-4662-bcc4-9e0e2d7aa8b2" />
 
 ---
 
