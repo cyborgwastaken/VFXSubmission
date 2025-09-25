@@ -4,6 +4,14 @@ This repository is a collection of five assignments demonstrating skills in **Un
 
 ---
 
+## Submitted By - 
+- Ayushman Das - 23BCG10002
+- Shivansh Chauhan - 23BCG10081
+- Shruti Rathi - 23BCG10099
+- Prakamya Srivastava - 23BCG10118
+- Aman Shakya - 23BCG10119
+- Shivakant Kurmi - 23BCG10140
+
 ## Projects Overview
 
 ### 6. Adding Foliage, Fire, and Smoke with paint effects.
